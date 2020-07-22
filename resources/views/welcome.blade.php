@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Welcome to Laravel Default Page.</h2><a href="/login">Login</a>
+    <h2>Welcome to Laravel Default Page.</h2>
+    <a href="/login">Login</a>
 </body>
 </html>
